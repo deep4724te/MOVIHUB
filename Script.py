@@ -234,7 +234,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CREDITS_TXT = """<b>
 ❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
 
-• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href="https://t.me/Deep2213k">Hᴀʀꜱʜᴀʟ ❤️‍🔥</a>
+• ᴍᴀɪɴ ᴏᴡɴᴇʀ : <a href="https://t.me/Deep2213k">ᴅᴇᴇᴘ ❤️‍🔥</a>
 • ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a>
 • sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/LazyDeveloperr">LazyDeveloper</a>
 • sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://t.me/Biisal">Bɪɪsᴀʟ</a>
@@ -247,7 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="@movies6250">{file_name}</a></i>\n\n"""
+    CAPTION = """ 📂 <i><a href="https://t.me/movies6250">{file_name}</a></i>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
