@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'publicearn.com'))
-STREAM_API = (environ.get('STREAM_API', '861d91eb64565fee47d1322836257bdba96aadac'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'shortxlinks.com'))
+STREAM_API = (environ.get('STREAM_API', '7709a824575640328a543091da04875a63be6d95'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HOWTO615/69'))
 
 # Admins, Channels & Users
